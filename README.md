@@ -6,9 +6,10 @@ Se encuentran dos carpetas:
 
 ## Clase
 
-1. Comandos basicos en Matlab.
-2. Como hacer figuras en Matlab.
-3. Figuras en 3D y campos vectoriales.
+2. Comandos basicos en Matlab.
+3. Como hacer figuras en Matlab.
+4. Figuras en 3D y campos vectoriales.
+5. Operadores logicos, switch y for como bucle de sumatoria.
 
 ## Tareas
 
@@ -17,3 +18,4 @@ y una ultima gráfica.
 2. Una figura realizada por medio de un for y otra con subfiguras a diferentes escalas 
 de logx, logy y loglog.
 3. Campo vectorial dado por una dipolo electrico con la graficación de cargas.
+4. Uso de la serie de Taylor de la exponencial y serie para aproximar pi.

@@ -10,6 +10,7 @@ Se encuentran dos carpetas:
 3. Como hacer figuras en Matlab.
 4. Figuras en 3D y campos vectoriales.
 5. Operadores logicos, switch y for como bucle de sumatoria.
+6. Uso del while, interpolación e introducción a las funciones.
 
 ## Tareas
 
@@ -19,3 +20,4 @@ y una ultima gráfica.
 de logx, logy y loglog.
 3. Campo vectorial dado por una dipolo electrico con la graficación de cargas.
 4. Uso de la serie de Taylor de la exponencial y serie para aproximar pi.
+5. Calculo para diferentes coeficientes de resisitivada c del aire, la dependencia velocidad tiempo.

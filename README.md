@@ -12,6 +12,8 @@ Se encuentran dos carpetas:
 5. Operadores logicos, switch y for como bucle de sumatoria.
 6. Uso del while, interpolación e introducción a las funciones.
 7. Movimiento parabolico sin rozamineto, con rozamineto lineal y cuadratico.
+8. Método de Euler adelantado y Modificado.
+9. Método de Euler atrasado con una ejemplificación del Mov. parabolico con arrastre.
 
 ## Tareas
 
@@ -23,3 +25,5 @@ de logx, logy y loglog.
 4. Uso de la serie de Taylor de la exponencial y serie para aproximar pi.
 5. Calculo para diferentes coeficientes de resisitivada c del aire, la dependencia velocidad tiempo.
 6. Programa que encuentra el tiempo de vuelo, la distancia y la altura máxima para un rozamiento lineal.
+7. Implementación del Método de Euler adelantado y Modificado para la EDO de carga en un capacitor.
+8. Resolución de la EDO  del Mov. parabolico con arrastre con los tres métodos de Euler.

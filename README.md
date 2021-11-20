@@ -14,6 +14,9 @@ Se encuentran dos carpetas:
 7. Movimiento parabolico sin rozamineto, con rozamineto lineal y cuadratico.
 8. Método de Euler adelantado y Modificado.
 9. Método de Euler atrasado con una ejemplificación del Mov. parabolico con arrastre.
+10. Metodo de Euler modificado para un sistema de tres resortes acoplados.
+11. Diferentes ejemplos para el método de punto medio.
+12. Solución de un oscilador forzado-amortiguado por el metodo de verlet.
 
 ## Tareas
 
@@ -27,3 +30,12 @@ de logx, logy y loglog.
 6. Programa que encuentra el tiempo de vuelo, la distancia y la altura máxima para un rozamiento lineal.
 7. Implementación del Método de Euler adelantado y Modificado para la EDO de carga en un capacitor.
 8. Resolución de la EDO  del Mov. parabolico con arrastre con los tres métodos de Euler.
+9. Solucionar un sistema acoplado de tres resortes con acoplamiento por metodo de Euler.
+10. Solucionar un sistema acoplado de tres resortes con acoplamiento por metodo de punto medio.
+11. Algoritmo de verlet para un un sistema de oarabolico con resistividad lineal en x y y.
+
+## Parciales
+
+1. Se resuleve el segundo punto del primer parcial que es la solución numerica por verlet, euler-modificado 
+y punto medio para un movimiento parabolico con resistencia cuadrica y su comparación con el mismo sistema sin 
+resistencia.

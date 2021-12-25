@@ -57,4 +57,5 @@ grid on
 % Pausa entre cada iteracción
 pause (0.0001) 
 drawnow
+writeAnimation(fig,'pendulodoble.gif','LoopCount',1)
 endfor

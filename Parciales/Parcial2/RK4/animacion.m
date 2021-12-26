@@ -2,7 +2,7 @@
 
 clear; close; clc;
 % constantes del método
-dt = 0.1;  h = dt; tf = 50; N = ceil(tf/h);
+dt = 0.1;  h = dt; tf = 20; N = ceil(tf/h);
 
 % Constantes del problema
 m1 = input('masa m1: ');
@@ -32,6 +32,10 @@ end
 % Se agrupan las soluciones
 theta1 = yf(:, 1); omega1 =  yf(:, 2);
 theta2 = yf(:, 3); omega2 =  yf(:, 4); 
+% Se crea el archivo que tendra el video de la simulación
+fn = fullfile("Animacion.mp4");
+w = VideoWriter(fn);
+open(w);
 
 for j=1:length(theta1)
 x01=0;y01=0;
@@ -42,20 +46,20 @@ x2(j)=x1(j)+L2*sin(theta2(j));
 y2(j)=y1(j)-L2*cos(theta2(j));
 
 figure(1);clf;
-hold on
+hold on;
 % Se grafican las cuerdas de los pendulos
-plot([x01, x1(j)],[y01, y1(j)], 'linewidth',1.5,'b')
-plot([x1(j),x2(j)],[y1(j),y2(j)],'linewidth',1.5,'b')
+plot([x01, x1(j)],[y01, y1(j)], 'linewidth',1.5,'b');
+plot([x1(j),x2(j)],[y1(j),y2(j)],'linewidth',1.5,'b');
 % Se grafican las masas
-plot(x1(j),y1(j),'marker','.','markersize',30,'r') 
-plot(x2(j),y2(j),'marker','.','markersize',30,'g')
+plot(x1(j),y1(j),'marker','.','markersize',30,'r') ;
+plot(x2(j),y2(j),'marker','.','markersize',30,'g');
 % Se grafica el techo
-plot([-1,1],[0,0],'linewidth',6,'k') 
+plot([-1,1],[0,0],'linewidth',6,'k') ;
 hold off;
-axis([-5,5,-5,5]) 
-grid on
+axis([-5,5,-5,5]) ;
 % Pausa entre cada iteracción
-pause (0.0001) 
-drawnow
-writeAnimation(fig,'pendulodoble.gif','LoopCount',1)
+pause (0.0001); 
+grid on; drawnow;
+writeVideo (w, getframe (gcf));
 endfor
+close(w)

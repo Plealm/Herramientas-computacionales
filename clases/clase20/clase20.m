@@ -1,4 +1,4 @@
-% clase 19
+% clase 20
 % 14 de Diciembre del 2021
 % ecuación de difusión
 

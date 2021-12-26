@@ -17,6 +17,16 @@ Se encuentran dos carpetas:
 10. Metodo de Euler modificado para un sistema de tres resortes acoplados.
 11. Diferentes ejemplos para el método de punto medio.
 12. Solución de un oscilador forzado-amortiguado por el metodo de verlet.
+13. 18 de noviembre del 2021 clase de verlet para un oscilador.
+14. 23 de noviembre del 2021 Runge-Kutta 4th.
+15. 25 de noviembre del 2021 animacion con mov parabolico ideal y con arrastre.
+16. 30 de noviembre del 2021 animacion solución de la ecuacion de Lorentz.
+17. 02 de Diciembre del 2021 creación del video para la orbita de un planeta y funcion especial de Jacobi (Pendulo total).
+18. 07 de Diciembre del 2021 Método ODE45.
+19. 09 de Diciembre falta.
+20. 14 de Diciembre Solución de la ecuación de difusión para diferentes perfiles.
+21. 16 de Diciembre falta.
+
 
 ## Tareas
 
@@ -33,9 +43,18 @@ de logx, logy y loglog.
 9. Solucionar un sistema acoplado de tres resortes con acoplamiento por metodo de Euler.
 10. Solucionar un sistema acoplado de tres resortes con acoplamiento por metodo de punto medio.
 11. Algoritmo de verlet para un un sistema de oarabolico con resistividad lineal en x y y.
+12. Tarea 12 falta.
+13. 30 de Noviembre del 2021 Realizar la pelicula para mov parabolico ideal y con arrastre lineal.
+14. 02 de Diciembre del 2021 Velocidad angular del pendulo total (Derivación numerica de las ecuaciones elipticas de Jacobi).
+15. 05 de Diciembre del 2021 Metodo ODE45 para el pendulo total.
+16. Tarea 16 falta 9 de Diciembre del 2021.
+17. 14 de Diciembre del 2021 Solución de la ecuación de difusión con el perfil inical de un pulso cuadrado.
+18. Tarea 18 falta 16 de Diciembre del 2021.
 
 ## Parciales
 
 1. Se resuleve el segundo punto del primer parcial que es la solución numerica por verlet, euler-modificado 
 y punto medio para un movimiento parabolico con resistencia cuadrica y su comparación con el mismo sistema sin 
 resistencia.
+
+2. Se resuelve el primer punto del segundo parcial que consiste en la solución doble pendulo por RK4 y ODE45, suponiendo la aproximación a pequeños angulos y sin ella, ademas se realiza la animación para ambas situaciones.

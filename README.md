@@ -43,7 +43,7 @@ de logx, logy y loglog.
 9. Solucionar un sistema acoplado de tres resortes con acoplamiento por metodo de Euler.
 10. Solucionar un sistema acoplado de tres resortes con acoplamiento por metodo de punto medio.
 11. Algoritmo de verlet para un un sistema de oarabolico con resistividad lineal en x y y.
-12. Tarea 12 falta.
+12. 18 de Noviembre del 2021 Método de verlet para el sistema de ecuaciones de Kepler.
 13. 30 de Noviembre del 2021 Realizar la pelicula para mov parabolico ideal y con arrastre lineal.
 14. 02 de Diciembre del 2021 Velocidad angular del pendulo total (Derivación numerica de las ecuaciones elipticas de Jacobi).
 15. 05 de Diciembre del 2021 Metodo ODE45 para el pendulo total.

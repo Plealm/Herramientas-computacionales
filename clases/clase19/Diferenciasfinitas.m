@@ -1,8 +1,7 @@
-% Tarea 16
+% Clase 19
 %  09 de Diciembre del 2021
-% Doble pulso de la ecuación de difución
-% por diferencias finitas
-
+% Resultado por diferencias finitas
+% de la ecuación de difusión
 clear all; close all; tic
 numx = 101; numt = 2001; dx = 1/(numx -1);
 dt = 1.; D = 5e-6; D1 = 5e-6;

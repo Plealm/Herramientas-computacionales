@@ -23,7 +23,7 @@ Se encuentran dos carpetas:
 16. 30 de noviembre del 2021 animacion solución de la ecuacion de Lorentz.
 17. 02 de Diciembre del 2021 creación del video para la orbita de un planeta y funcion especial de Jacobi (Pendulo total).
 18. 07 de Diciembre del 2021 Método ODE45.
-19. 09 de Diciembre falta.
+19. 09 de Diciembre del 2021 Implementación de diferencias finitas para la ecuación de difusión.
 20. 14 de Diciembre Solución de la ecuación de difusión para diferentes perfiles.
 21. 16 de Diciembre falta.
 
@@ -47,7 +47,7 @@ de logx, logy y loglog.
 13. 30 de Noviembre del 2021 Realizar la pelicula para mov parabolico ideal y con arrastre lineal.
 14. 02 de Diciembre del 2021 Velocidad angular del pendulo total (Derivación numerica de las ecuaciones elipticas de Jacobi).
 15. 05 de Diciembre del 2021 Metodo ODE45 para el pendulo total.
-16. Tarea 16 falta 9 de Diciembre del 2021.
+16. 09 de Diciembre del 2021 dos pulsos para la solución de la ecuación de difusión (Diferencias finitas).
 17. 14 de Diciembre del 2021 Solución de la ecuación de difusión con el perfil inical de un pulso cuadrado.
 18. Tarea 18 falta 16 de Diciembre del 2021.
 

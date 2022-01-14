@@ -49,7 +49,7 @@ de logx, logy y loglog.
 15. 05 de Diciembre del 2021 Metodo ODE45 para el pendulo total.
 16. 09 de Diciembre del 2021 dos pulsos para la solución de la ecuación de difusión (Diferencias finitas).
 17. 14 de Diciembre del 2021 Solución de la ecuación de difusión con el perfil inical de un pulso cuadrado.
-18. Tarea 18 falta 16 de Diciembre del 2021.
+18. 16 de Diciembre del 2021 Tres pulsos gaussianos iniciales en la ecuación de difusión y hacer un video.
 
 ## Parciales
 

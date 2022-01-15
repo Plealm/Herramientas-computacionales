@@ -31,3 +31,4 @@ while max(max(abs(u1 - u2))) > tol
 endwhile
 
 figure(2); clf;mesh(x, y, u2);
+print -djpeg -r100 solucion.jpeg

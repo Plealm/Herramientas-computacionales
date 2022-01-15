@@ -24,8 +24,10 @@ Se encuentran dos carpetas:
 17. 02 de Diciembre del 2021 creación del video para la orbita de un planeta y funcion especial de Jacobi (Pendulo total).
 18. 07 de Diciembre del 2021 Método ODE45.
 19. 09 de Diciembre del 2021 Implementación de diferencias finitas para la ecuación de difusión.
-20. 14 de Diciembre Solución de la ecuación de difusión para diferentes perfiles.
-21. 16 de Diciembre falta.
+20. 14 de Diciembre del 2021 Solución de la ecuación de difusión para diferentes perfiles.
+21. 16 de Diciembre del 2021 FALTA.
+22. 11 de Enero del 2022 Solución de la ecuación de difusión con amortiguamiento.
+23. 13 de Enero del 2022 Solución de la ecuación de laplace con Método de relajación.
 
 
 ## Tareas
@@ -50,6 +52,7 @@ de logx, logy y loglog.
 16. 09 de Diciembre del 2021 dos pulsos para la solución de la ecuación de difusión (Diferencias finitas).
 17. 14 de Diciembre del 2021 Solución de la ecuación de difusión con el perfil inical de un pulso cuadrado.
 18. 16 de Diciembre del 2021 Tres pulsos gaussianos iniciales en la ecuación de difusión y hacer un video.
+19. 13 de Enero del 2022 Solución de la ecuación de laplace con Método de relajación con diferentes condiciones iniciales .
 
 ## Parciales
 

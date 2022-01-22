@@ -28,6 +28,8 @@ Se encuentran dos carpetas:
 21. 16 de Diciembre del 2021 FALTA.
 22. 11 de Enero del 2022 Solución de la ecuación de difusión con amortiguamiento.
 23. 13 de Enero del 2022 Solución de la ecuación de laplace con Método de relajación.
+24. 18 de Enero del 2022 Analisis para un campo magnetico de 7 cargas.
+25. 20 de Enero del 2022 Solución del la función de onda en 1 dimensión y 2 dimensiones.
 
 
 ## Tareas
@@ -52,7 +54,9 @@ de logx, logy y loglog.
 16. 09 de Diciembre del 2021 dos pulsos para la solución de la ecuación de difusión (Diferencias finitas).
 17. 14 de Diciembre del 2021 Solución de la ecuación de difusión con el perfil inical de un pulso cuadrado.
 18. 16 de Diciembre del 2021 Tres pulsos gaussianos iniciales en la ecuación de difusión y hacer un video.
-19. 13 de Enero del 2022 Solución de la ecuación de laplace con Método de relajación con diferentes condiciones iniciales .
+19. 13 de Enero del 2022 Solución de la ecuación de laplace con Método de relajación con diferentes condiciones iniciales.
+20. 18 de Enero del 2022 Analisis para un campo magnetico de 3 cargas.
+21. 20 de Enero del 2022 Solución del la función de onda en 2 dimensiones con diferente condiciones inicales.
 
 ## Parciales
 

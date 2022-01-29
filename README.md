@@ -30,6 +30,8 @@ Se encuentran dos carpetas:
 23. 13 de Enero del 2022 Solución de la ecuación de laplace con Método de relajación.
 24. 18 de Enero del 2022 Analisis para un campo magnetico de 7 cargas.
 25. 20 de Enero del 2022 Solución del la función de onda en 1 dimensión y 2 dimensiones.
+26. 25 de Enero del 2022 Solución de la ecuación de Schrodinger por diferencias finitas.
+27. 27 de Enero del 2022 Calculo de pi e integrales por medio de puntos random.
 
 
 ## Tareas
@@ -57,6 +59,8 @@ de logx, logy y loglog.
 19. 13 de Enero del 2022 Solución de la ecuación de laplace con Método de relajación con diferentes condiciones iniciales.
 20. 18 de Enero del 2022 Analisis para un campo magnetico de 3 cargas.
 21. 20 de Enero del 2022 Solución del la función de onda en 2 dimensiones con diferente condiciones inicales.
+22. 25 de Enero del 2022 Solucionar el oscilador cuantico para un pontencial de x⁴.
+23. 27 de Enero del 2022 Encontrar la integral númerica de una gaussiana.
 
 ## Parciales
 

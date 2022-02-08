@@ -32,6 +32,8 @@ Se encuentran dos carpetas:
 25. 20 de Enero del 2022 Solución del la función de onda en 1 dimensión y 2 dimensiones.
 26. 25 de Enero del 2022 Solución de la ecuación de Schrodinger por diferencias finitas.
 27. 27 de Enero del 2022 Calculo de pi e integrales por medio de puntos random.
+28. 01 de Febrero del 2022 Método de integración Simpson.
+29. 03 de Febrero del 2022 EL uso de MonteCarlo para el calculo del volumen de una esfera en 3 Dimensiones.
 
 
 ## Tareas
@@ -61,6 +63,8 @@ de logx, logy y loglog.
 21. 20 de Enero del 2022 Solución del la función de onda en 2 dimensiones con diferente condiciones inicales.
 22. 25 de Enero del 2022 Solucionar el oscilador cuantico para un pontencial de x⁴.
 23. 27 de Enero del 2022 Encontrar la integral númerica de una gaussiana.
+24. 01 de Febrero del 2022 Método de integración Simpson y MonteCarlo para calcular pi con la funcion 1/(sin(x)⁴ + cos(x)⁴).
+25. 03 de Febrero del 2022 MonteCarlo para encontrar el volumen de una esfera N-dimensional.
 
 ## Parciales
 
@@ -69,3 +73,5 @@ y punto medio para un movimiento parabolico con resistencia cuadrica y su compar
 resistencia.
 
 2. Se resuelve el primer punto del segundo parcial que consiste en la solución doble pendulo por RK4 y ODE45, suponiendo la aproximación a pequeños angulos y sin ella, ademas se realiza la animación para ambas situaciones.
+
+3. Se resuleve en completitud el parcial, además de subir el pdf, tres puntos de diferencias finitas y uno de MonteCarlo.
